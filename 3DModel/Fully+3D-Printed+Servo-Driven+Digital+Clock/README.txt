@@ -1,0 +1,1 @@
+Fully 3D-Printed Servo-Driven Digital Clock by otvinta3d on Thingiverse: https://www.thingiverse.com/thing:3266949

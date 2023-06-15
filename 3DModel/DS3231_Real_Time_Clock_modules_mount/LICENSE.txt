@@ -1,0 +1,3 @@
+DS3231 Real Time Clock modules mount (https://www.thingiverse.com/thing:2996582) by Dyne is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license.
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+

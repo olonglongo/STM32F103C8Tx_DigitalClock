@@ -1,0 +1,40 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "usart.h": "c",
+        "main.h": "c",
+        "stm32f1xx_hal_usart.h": "c",
+        "dma_usart.h": "c",
+        "stm32f1xx_hal_rtc.h": "c",
+        "pca9685.h": "c",
+        "limits": "c",
+        "ds3231.h": "c"
+    },
+    "files.trimTrailingWhitespace": false, // 保存时，删除每一行末尾的空格
+    "workbench.colorCustomizations": {
+        "activityBar.foreground": "#00f7ff", // 自定义颜色
+        // "editor.selectionHighlightBackground": "#ffff00d8"
+    },
+    "git.enabled": false, // 如果你不用git，我建议你关闭它
+    "git.ignoreMissingGitWarning": true, // 同上
+    "editor.minimap.enabled": true, // 我个人不用minimap，就是右边那个东西
+    "editor.dragAndDrop": false, // 选中文字后，可以拖动它们调整位置。我是不需要
+    "files.autoGuessEncoding": true, // 启用后，会在打开文件时尝试猜测字符集编码。我关闭的理由见6
+    "[c]": {
+        "files.encoding": "gbk", // 这样的格式可以对指定后缀的文件应用设置，如果你实在想用gbk，就这样设置吧。cpp同理。
+        "editor.wordBasedSuggestions": true
+    },
+    "window.zoomLevel": -1,
+    "editor.mouseWheelZoom": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.revealIfOpen": true,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    // "workbench.iconTheme": "vscode-icons",
+    // "workbench.colorTheme": "One Dark Pro",
+    "vsicons.dontShowNewVersionMessage": true,
+    "files.autoSave": "afterDelay",
+    "files.eol": "\n",
+}
